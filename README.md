@@ -1,4 +1,4 @@
-👋 Hi, I’m @MarkusTHEAnalyst
+`👋 Hi, I’m @MarkusTHEAnalyst
 I'm Interested in Data Management and Analytics
 👀 I’m also interested in cloud architecture
 🌱 I’m currently learning aws
